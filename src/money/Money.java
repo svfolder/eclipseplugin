@@ -33,8 +33,6 @@ public class Money {
 	private JFrame frame;
 	private JTable table_1;
 
-	private int xcvb ;
-	
 	/**
 	 * Launch the application.
 	 */
